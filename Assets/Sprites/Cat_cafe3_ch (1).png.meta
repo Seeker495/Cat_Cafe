@@ -1,0 +1,1699 @@
+fileFormatVersion: 2
+guid: 0dad68af543756e4ebab7f79583f3022
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 360
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61dac9478f62da4ca0d3bdc713891c9
+      internalID: 1842588862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 360
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197392d55095ae84e87b51f7a912834e
+      internalID: -1895155612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 360
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9fe9a2609d5a149832cddf70259094
+      internalID: 1317197798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 360
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b7cf8326b1cd24ea103662e1111234
+      internalID: 1079583040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_4
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 360
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ea8645814bb3d4c9b475e92cbc4968
+      internalID: -608151888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_5
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 335
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05adcecdf6f6ca4bbb66f443776522e
+      internalID: 1031754446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_6
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 335
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa4d499b1f4e5249847740851a39999
+      internalID: 663402435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_7
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 335
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2034577d12ec3f340bfc22a8657c47d5
+      internalID: 1151952469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_8
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 335
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a595a427249fe2947854edda667ec978
+      internalID: 119777997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_9
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 335
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1268e58849ebcd048b13c75bf0d972b0
+      internalID: 1911024950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_10
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 335
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46385b7e19518d43b6d1f92b85f979b
+      internalID: 2072375134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_11
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 310
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0268c3987cb9a4f9b2320398069e0e
+      internalID: -1804088526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_12
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 310
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966ffe253fb42a94583ad21652beeed1
+      internalID: 1524124874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_13
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 310
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd49def4541d6d44f89e817d470f5973
+      internalID: -1512611098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_14
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 310
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c998b949ef1b6b14c8e9faf6e5e340a2
+      internalID: -691410832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_15
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 310
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2411807f3c14442902048cbf83860b
+      internalID: -1701357375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_16
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 310
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d573865b8fce01546992778afa17000c
+      internalID: 1551685424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_17
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 285
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7368e50beb0132e409df9e143f8c11dd
+      internalID: -781880930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_18
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 285
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0040b1cbd8db18b4d84acc103707867e
+      internalID: 1571149479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_19
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 285
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a52a040d4ff1c54c84b1a24a71f417c
+      internalID: 192360019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_20
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 285
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d424a546c4581429ed1d0ca8b3d52b
+      internalID: 862430636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_21
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 285
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b1ffcda8bd51e4099abd09dc8d0288
+      internalID: 265825661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_22
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 285
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7073e62344ef8fd46ab4fa721c5468ea
+      internalID: 1921428976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_23
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 285
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728196ec3e312c1479c2eccddcc53878
+      internalID: 479663662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_24
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 285
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f55a1065324d3747bddf0bcdeb3f3de
+      internalID: -1554623981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_25
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 235
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c95ef4dfdd23e44ea1634c0cddd41b0
+      internalID: -1695450072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_26
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 235
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086c3e266fc9e0e4b83a935e4e339f7d
+      internalID: -173326955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_27
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 260
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12b5aff7a290dd4da31f88ab0479869
+      internalID: 78087294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_28
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 260
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67472e35252fd8b4681881accc01d68c
+      internalID: -1259765698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_29
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 260
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957110d5beab0ed42898bc16fae7877e
+      internalID: -2088206293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_30
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 260
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153229184ddf54a4cbd458434d0ba34c
+      internalID: -209222751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_33
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 235
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbfde2332793b7448c87a6399a9bf79
+      internalID: -537236455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_34
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 235
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb9fadd9231d324a8a432b3f5d838d5
+      internalID: -582300675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_35
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 235
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582e5a82adbf2ec4f98da52aa612d89c
+      internalID: -1432658518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_36
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 235
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e57389a30cf261419aa737acc296b3f
+      internalID: 357390231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_37
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 210
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c49b7f93a4ffc4eb98d49e5952c192
+      internalID: 1929313314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_38
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 210
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537f1e08eb2e0c84db03ac789a4b4da6
+      internalID: -171845681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_39
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 210
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b58f14f070535f4f92591238730b3b0
+      internalID: 302664497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_40
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 210
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242cae074473ef8499f294aab96207f3
+      internalID: 310700168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_41
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 210
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33cc261efce0c6441babf04a0eae6cff
+      internalID: 857041109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_42
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 210
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2e33a4cda09e84cbfc2c2f34c1c582
+      internalID: -2027107901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_43
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 210
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e49d0078b44ef44884c6e6a448417c
+      internalID: -974817388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_44
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 185
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabca6954f239644182e81bbec064258
+      internalID: -18286563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_45
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 185
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a1404361933dd4195223ee776a01ab
+      internalID: 1004855391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_46
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 185
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872dff39365329f47a4177993583df6b
+      internalID: 1827770475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_47
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 185
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3891de61f4b0bc24a8af49076bb1fb4f
+      internalID: -1209547412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_48
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 185
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5adacb9d096e94d84973127ef861e4
+      internalID: 1841145500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_49
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 185
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e70d9c47bc1c44fa14aa66239b09c2
+      internalID: -285298665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_50
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 185
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8982937c19979df43a2321ea54a7f164
+      internalID: -82063109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_51
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 160
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fbef84f128c524797e9bc2a0044573
+      internalID: -1728558952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_52
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 160
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed8c01f4e659744faf3549a1c54f03c
+      internalID: -1109301943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_53
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 135
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99501b580292d24ca7481c9c5e255c4
+      internalID: 1704410251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_54
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 135
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067ab6fca4195234c9e528d026d8da21
+      internalID: -221111740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_55
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 135
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3801660fdc3d348ad354f83afca2a2
+      internalID: -507373744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_56
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 135
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96fa3c3966c55834e8cfd101a4548dae
+      internalID: 1968476559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_57
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 135
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a842fe693a042448ba963ac3e3503f
+      internalID: -1528880152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_58
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 110
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5423fac150ef954a9d217716b6430bf
+      internalID: 1043602204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_59
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 110
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c3cf8dd3525354c9e97f7ee6112b13
+      internalID: -1192958991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_60
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 110
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d593e86e4d888374ca4e19a6f67a3edc
+      internalID: -1145482738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_61
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 110
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d244df0a1a5c6247adde8229a37b97c
+      internalID: 42080072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_62
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 85
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01fb76fbdb49fe4d97a99c1825d57cf
+      internalID: 947965868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_63
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 85
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460306d0ea667434cb7310ae936962cc
+      internalID: 1737249615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_64
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 60
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad2eb55ba1f6da44bffaf59bfeaa828
+      internalID: 1333261523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_65
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 60
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95aa53beef1aaac449ff8c1163e05e64
+      internalID: 2093033497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_66
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 60
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4088bda662e7cd04da222b185c0fb4df
+      internalID: -1945611298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_67
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 60
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1771460d20d444c991229c10fe7f13
+      internalID: 1023327496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_68
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 35
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641d13fba6cdeb444a1c6d7388e6e14c
+      internalID: 886132728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_69
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 35
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7133e46e62650974684c3fbcd59243be
+      internalID: 374381502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_70
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 35
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0150ad5d718472d46982d77775a93f59
+      internalID: 540730238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_71
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 35
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42e7d95321d4534d8e11bfa369083b0
+      internalID: 729418371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_cafe3_ch (1)_72
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 10
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ddbe69081810e44b8f166433b7a375d
+      internalID: -1536473410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Cat_cafe3_ch (1)_43: -974817388
+      Cat_cafe3_ch (1)_47: -1209547412
+      Cat_cafe3_ch (1)_21: 265825661
+      Cat_cafe3_ch (1)_71: 729418371
+      Cat_cafe3_ch (1)_32: 1410223028
+      Cat_cafe3_ch (1)_61: 42080072
+      Cat_cafe3_ch (1)_46: 1827770475
+      Cat_cafe3_ch (1)_26: -173326955
+      Cat_cafe3_ch (1)_3: 1079583040
+      Cat_cafe3_ch (1)_40: 310700168
+      Cat_cafe3_ch (1)_10: 2072375134
+      Cat_cafe3_ch (1)_33: -537236455
+      Cat_cafe3_ch (1)_36: 357390231
+      Cat_cafe3_ch (1)_50: -82063109
+      Cat_cafe3_ch (1)_69: 374381502
+      Cat_cafe3_ch (1)_41: 857041109
+      Cat_cafe3_ch (1)_68: 886132728
+      Cat_cafe3_ch (1)_18: 1571149479
+      Cat_cafe3_ch (1)_64: 1333261523
+      Cat_cafe3_ch (1)_6: 663402435
+      Cat_cafe3_ch (1)_14: -691410832
+      Cat_cafe3_ch (1)_58: 1043602204
+      Cat_cafe3_ch (1)_20: 862430636
+      Cat_cafe3_ch (1)_38: -171845681
+      Cat_cafe3_ch (1)_59: -1192958991
+      Cat_cafe3_ch (1)_1: -1895155612
+      Cat_cafe3_ch (1)_45: 1004855391
+      Cat_cafe3_ch (1)_4: -608151888
+      Cat_cafe3_ch (1)_0: 1842588862
+      Cat_cafe3_ch (1)_11: -1804088526
+      Cat_cafe3_ch (1)_34: -582300675
+      Cat_cafe3_ch (1)_53: 1704410251
+      Cat_cafe3_ch (1)_42: -2027107901
+      Cat_cafe3_ch (1)_17: -781880930
+      Cat_cafe3_ch (1)_51: -1728558952
+      Cat_cafe3_ch (1)_25: -1695450072
+      Cat_cafe3_ch (1)_57: -1528880152
+      Cat_cafe3_ch (1)_66: -1945611298
+      Cat_cafe3_ch (1)_8: 119777997
+      Cat_cafe3_ch (1)_7: 1151952469
+      Cat_cafe3_ch (1)_55: -507373744
+      Cat_cafe3_ch (1)_63: 1737249615
+      Cat_cafe3_ch (1)_5: 1031754446
+      Cat_cafe3_ch (1)_28: -1259765698
+      Cat_cafe3_ch (1)_44: -18286563
+      Cat_cafe3_ch (1)_60: -1145482738
+      Cat_cafe3_ch (1)_67: 1023327496
+      Cat_cafe3_ch (1)_62: 947965868
+      Cat_cafe3_ch (1)_31: 1768027313
+      Cat_cafe3_ch (1)_2: 1317197798
+      Cat_cafe3_ch (1)_35: -1432658518
+      Cat_cafe3_ch (1)_24: -1554623981
+      Cat_cafe3_ch (1)_22: 1921428976
+      Cat_cafe3_ch (1)_48: 1841145500
+      Cat_cafe3_ch (1)_29: -2088206293
+      Cat_cafe3_ch (1)_16: 1551685424
+      Cat_cafe3_ch (1)_49: -285298665
+      Cat_cafe3_ch (1)_70: 540730238
+      Cat_cafe3_ch (1)_72: -1536473410
+      Cat_cafe3_ch (1)_19: 192360019
+      Cat_cafe3_ch (1)_37: 1929313314
+      Cat_cafe3_ch (1)_39: 302664497
+      Cat_cafe3_ch (1)_30: -209222751
+      Cat_cafe3_ch (1)_12: 1524124874
+      Cat_cafe3_ch (1)_23: 479663662
+      Cat_cafe3_ch (1)_9: 1911024950
+      Cat_cafe3_ch (1)_54: -221111740
+      Cat_cafe3_ch (1)_15: -1701357375
+      Cat_cafe3_ch (1)_13: -1512611098
+      Cat_cafe3_ch (1)_56: 1968476559
+      Cat_cafe3_ch (1)_65: 2093033497
+      Cat_cafe3_ch (1)_27: 78087294
+      Cat_cafe3_ch (1)_52: -1109301943
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
