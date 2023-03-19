@@ -42,3 +42,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Table
+    uniqueID: 3632811693
+    locked: 0
+  - name: OnTable
+    uniqueID: 3056845009
+    locked: 0
+  - name: Player
+    uniqueID: 2888819529
+    locked: 0
